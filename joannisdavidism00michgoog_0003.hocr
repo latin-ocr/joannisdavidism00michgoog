@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joannisdavidism00michgoog_0003.png"; bbox 0 0 4058 5000; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 2829 4756 3640 4917">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 2829 4756 3640 4917">
+     <span class='ocr_line' id='line_1_1' title="bbox 2829 4756 3640 4917; baseline 0 -48"><span class='ocrx_word' id='word_1_1' title='bbox 2829 4823 3060 4882; x_wconf 70' lang='lat' dir='ltr'>Diqinzed</span> <span class='ocrx_word' id='word_1_2' title='bbox 3086 4823 3145 4882; x_wconf 67' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_3' title='bbox 3164 4756 3640 4917; x_wconf 69' lang='lat' dir='ltr'>GOOgIC</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
